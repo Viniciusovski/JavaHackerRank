@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="Java2DArray">
-      <change afterPath="$PROJECT_DIR$/src/JavaSubArray.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaSubArray">
+      <change afterPath="$PROJECT_DIR$/src/JavaArraylist.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -134,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1743703738314</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="JavaSubArray">
+      <option name="closed" value="true" />
+      <created>1743803731089</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1743803731089</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -145,6 +153,7 @@
     <MESSAGE value="JavaPrimaryTest" />
     <MESSAGE value="Java1DArray" />
     <MESSAGE value="Java2DArray" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java2DArray" />
+    <MESSAGE value="JavaSubArray" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaSubArray" />
   </component>
 </project>
