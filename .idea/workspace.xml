@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaList">
-      <change afterPath="$PROJECT_DIR$/src/JavaMap.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaMap">
+      <change afterPath="$PROJECT_DIR$/src/JavaStack.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744045489011</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="JavaMap">
+      <option name="closed" value="true" />
+      <created>1744134013062</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1744134013062</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -181,6 +189,7 @@
     <MESSAGE value="JavaArraylist" />
     <MESSAGE value="JavaArray1DPart2" />
     <MESSAGE value="JavaList" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaList" />
+    <MESSAGE value="JavaMap" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaMap" />
   </component>
 </project>
