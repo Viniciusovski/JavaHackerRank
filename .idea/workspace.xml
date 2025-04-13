@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaGenerics">
-      <change afterPath="$PROJECT_DIR$/src/JavaComparator.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaComparator">
+      <change afterPath="$PROJECT_DIR$/src/JavaSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -199,7 +199,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744418830837</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="JavaComparator">
+      <option name="closed" value="true" />
+      <created>1744586012206</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1744586012206</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -218,6 +226,7 @@
     <MESSAGE value="JavaStack" />
     <MESSAGE value="JavaHashset" />
     <MESSAGE value="JavaGenerics" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaGenerics" />
+    <MESSAGE value="JavaComparator" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaComparator" />
   </component>
 </project>
