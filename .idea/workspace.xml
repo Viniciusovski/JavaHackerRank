@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaDequeue">
-      <change afterPath="$PROJECT_DIR$/src/JavaBitSet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaBitSet" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744631013173</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="JavaBitSet">
+      <option name="closed" value="true" />
+      <created>1744747382020</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1744747382020</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -245,6 +250,7 @@
     <MESSAGE value="JavaComparator" />
     <MESSAGE value="JavaSort" />
     <MESSAGE value="JavaDequeue" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaDequeue" />
+    <MESSAGE value="JavaBitSet" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaBitSet" />
   </component>
 </project>
