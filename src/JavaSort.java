@@ -30,21 +30,21 @@ public class JavaSort {
         Scanner in = new Scanner(System.in);
         int testCases = Integer.parseInt(in.nextLine());
 
-        List<Student> studentList = new ArrayList<Student>();
+        List<queue.Student> studentList = new ArrayList<queue.Student>();
         while (testCases > 0) {
             int id = in.nextInt();
             String fname = in.next();
             double cgpa = in.nextDouble();
 
-            Student st = new Student(id, fname, cgpa);
+            queue.Student st = new queue.Student(id, fname, cgpa);
             studentList.add(st);
 
             testCases--;
         }
 
-        Collections.sort(studentList, new Comparator<Student>() {
+        Collections.sort(studentList, new Comparator<queue.Student>() {
             @Override
-            public int compare(Student s1, Student s2) {
+            public int compare(queue.Student s1, queue.Student s2) {
                 if (s1.getCgpa() != s2.getCgpa()) {
                     return Double.compare(s2.getCgpa(), s1.getCgpa()); // Higher CGPA first
                 } else if (!s1.getFname().equals(s2.getFname())) {
@@ -55,7 +55,7 @@ public class JavaSort {
             }
         });
 
-        for (Student st : studentList) {
+        for (queue.Student st : studentList) {
             System.out.println(st.getFname());
         }
     }
