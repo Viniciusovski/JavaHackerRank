@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaInheritance1">
-      <change afterPath="$PROJECT_DIR$/src/JavaInheritance2.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaInheritance2">
+      <change afterPath="$PROJECT_DIR$/src/JavaAbstractClass.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -256,7 +256,15 @@
       <option name="project" value="LOCAL" />
       <updated>1744916678431</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="JavaInheritance2">
+      <option name="closed" value="true" />
+      <created>1745265965373</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1745265965373</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -282,6 +290,7 @@
     <MESSAGE value="JavaPriorityQueue" />
     <MESSAGE value="JavaPriorityQueue change" />
     <MESSAGE value="JavaInheritance1" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaInheritance1" />
+    <MESSAGE value="JavaInheritance2" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaInheritance2" />
   </component>
 </project>
