@@ -1,4 +1,5 @@
-import java.io.*;
+package datastructure;
+
 import java.util.*;
 
 public class JavaArraylist {

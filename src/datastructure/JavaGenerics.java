@@ -1,4 +1,4 @@
-package oop;
+package datastructure;
 
 import java.lang.reflect.Method;
 

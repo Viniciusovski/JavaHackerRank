@@ -1,6 +1,8 @@
+package datastructure;
+
 import java.util.*;
 
-// Write your Checker class here
+// Write your datastructure.Checker class here
 class Checker implements Comparator<Player> {
     @Override
     public int compare(Player a, Player b) {

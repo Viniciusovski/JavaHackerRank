@@ -1,3 +1,5 @@
+package datastructure;
+
 import java.util.Scanner;
 
 public class Java1DArray {
