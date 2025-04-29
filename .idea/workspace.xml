@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaInstanceof">
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="refactoring packages">
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/JavaExceptionHandlingTryCatch.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DuplicateWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/DuplicateWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java1DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/Java1DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Java2DArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/Java2DArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaAbstractClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JavaAbstractClass.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaArray1DPart2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaArray1DPart2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaArraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaArraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBigDecimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bignumber/JavaBigDecimal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaBigInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bignumber/JavaBigInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaDequeue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaDequeue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaHashset.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaHashset.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaPrimaryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bignumber/JavaPrimaryTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/JavaSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SolutionRegex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/SolutionRegex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SolutionRegex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/SolutionRegex2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TagContentExtractor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/TagContentExtractor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ValidUsernameRegularExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/strings/ValidUsernameRegularExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/oop/JavaGenerics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/datastructure/JavaGenerics.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -325,11 +304,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745689806940</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="refactoring packages">
+      <option name="closed" value="true" />
+      <created>1745690647806</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1745690647806</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JavaBigDecimal" />
     <MESSAGE value="JavaPrimaryTest" />
     <MESSAGE value="Java1DArray" />
     <MESSAGE value="Java2DArray" />
@@ -354,6 +340,7 @@
     <MESSAGE value="MethodOverriding and refatoring packages" />
     <MESSAGE value="MethodOverriding 2" />
     <MESSAGE value="JavaInstanceof" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaInstanceof" />
+    <MESSAGE value="refactoring packages" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring packages" />
   </component>
 </project>
