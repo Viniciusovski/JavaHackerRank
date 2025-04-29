@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="refactoring packages">
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/JavaExceptionHandlingTryCatch.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaExceptionHandlingTryCatch">
+      <change afterPath="$PROJECT_DIR$/src/exception_handling/JavaExceptionHandling.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -312,11 +312,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745690647806</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="JavaExceptionHandlingTryCatch">
+      <option name="closed" value="true" />
+      <created>1745894373352</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1745894373352</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JavaPrimaryTest" />
     <MESSAGE value="Java1DArray" />
     <MESSAGE value="Java2DArray" />
     <MESSAGE value="JavaSubArray" />
@@ -341,6 +348,7 @@
     <MESSAGE value="MethodOverriding 2" />
     <MESSAGE value="JavaInstanceof" />
     <MESSAGE value="refactoring packages" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring packages" />
+    <MESSAGE value="JavaExceptionHandlingTryCatch" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaExceptionHandlingTryCatch" />
   </component>
 </project>
