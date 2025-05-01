@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaExceptionHandling">
-      <change afterPath="$PROJECT_DIR$/src/advanced/VarargsSimpleAddition.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="VarargsSimpleAddition.java">
+      <change afterPath="$PROJECT_DIR$/src/advanced/ReflectionAttributes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -328,11 +328,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745941794011</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="VarargsSimpleAddition.java">
+      <option name="closed" value="true" />
+      <created>1746058490091</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1746058490091</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java2DArray" />
     <MESSAGE value="JavaSubArray" />
     <MESSAGE value="JavaArraylist" />
     <MESSAGE value="JavaArray1DPart2" />
@@ -357,6 +364,7 @@
     <MESSAGE value="refactoring packages" />
     <MESSAGE value="JavaExceptionHandlingTryCatch" />
     <MESSAGE value="JavaExceptionHandling" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaExceptionHandling" />
+    <MESSAGE value="VarargsSimpleAddition.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="VarargsSimpleAddition.java" />
   </component>
 </project>
