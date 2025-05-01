@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaExceptionHandlingTryCatch">
-      <change afterPath="$PROJECT_DIR$/src/exception_handling/JavaExceptionHandling.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaExceptionHandling">
+      <change afterPath="$PROJECT_DIR$/src/advanced/VarargsSimpleAddition.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +51,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Java Workspace/fileintegration&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Java Workspace/boas-praticas-java/Testes Java&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;inlay.hints&quot;
   }
 }</component>
@@ -320,11 +320,18 @@
       <option name="project" value="LOCAL" />
       <updated>1745894373352</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="JavaExceptionHandling">
+      <option name="closed" value="true" />
+      <created>1745941794011</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1745941794011</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Java1DArray" />
     <MESSAGE value="Java2DArray" />
     <MESSAGE value="JavaSubArray" />
     <MESSAGE value="JavaArraylist" />
@@ -349,6 +356,7 @@
     <MESSAGE value="JavaInstanceof" />
     <MESSAGE value="refactoring packages" />
     <MESSAGE value="JavaExceptionHandlingTryCatch" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaExceptionHandlingTryCatch" />
+    <MESSAGE value="JavaExceptionHandling" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaExceptionHandling" />
   </component>
 </project>
