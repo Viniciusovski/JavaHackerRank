@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="JavaAnnotations">
-      <change afterPath="$PROJECT_DIR$/src/advanced/CovariantReturnTypes.java" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="Covariant Return Types">
+      <change afterPath="$PROJECT_DIR$/src/advanced/JavaLambdaExpressions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -395,11 +395,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746677579298</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Covariant Return Types">
+      <option name="closed" value="true" />
+      <created>1746761857349</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1746761857351</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JavaGenerics" />
     <MESSAGE value="JavaComparator" />
     <MESSAGE value="JavaSort" />
     <MESSAGE value="JavaDequeue" />
@@ -424,6 +431,7 @@
     <MESSAGE value="JavaSingletonPattern" />
     <MESSAGE value="JavaVisitorPattern" />
     <MESSAGE value="JavaAnnotations" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaAnnotations" />
+    <MESSAGE value="Covariant Return Types" />
+    <option name="LAST_COMMIT_MESSAGE" value="Covariant Return Types" />
   </component>
 </project>
