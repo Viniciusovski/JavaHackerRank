@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="Java Lambda Expressions">
-      <change afterPath="$PROJECT_DIR$/src/advanced/JavaMD5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6ff84be8-98dd-4d44-9f74-77bb1b63bad7" name="Changes" comment="Java MD5">
+      <change afterPath="$PROJECT_DIR$/src/advanced/JavaSHA256.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -411,11 +410,18 @@
       <option name="project" value="LOCAL" />
       <updated>1746933908100</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Java MD5">
+      <option name="closed" value="true" />
+      <created>1747019930752</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1747019930752</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="JavaSort" />
     <MESSAGE value="JavaDequeue" />
     <MESSAGE value="JavaBitSet" />
     <MESSAGE value="JavaPriorityQueue" />
@@ -440,6 +446,7 @@
     <MESSAGE value="JavaAnnotations" />
     <MESSAGE value="Covariant Return Types" />
     <MESSAGE value="Java Lambda Expressions" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Lambda Expressions" />
+    <MESSAGE value="Java MD5" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java MD5" />
   </component>
 </project>
